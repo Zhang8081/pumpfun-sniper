@@ -1,5 +1,8 @@
 # Overview
 Bot built with C# and the Solnet library, designed to target and execute transaction sniping on Pump.fun within the Solana blockchain ecosystem.
+![](https://github.com/Zhang8081/pumpfun-sniper/blob/main/scr2.png?raw=true)
+![](https://github.com/Zhang8081/pumpfun-sniper/blob/main/scr.png?raw=true)
+![](https://github.com/Zhang8081/pumpfun-sniper/blob/main/scr3.png?raw=true)
 ## Features
 
 - Connects to the Solana MainNet.
