@@ -2,7 +2,6 @@
 <img src=https://img.shields.io/github/stars/Zhang8081/pumpfun-sniper?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/forks/Zhang8081/pumpfun-sniper?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/issues/Zhang8081/pumpfun-sniper?style=for-the-badge&logo=appveyor&color=informational />
-<img src=https://img.shields.io/github/issues-pr/Zhang8081/pumpfun-sniper?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 
 # Overview
